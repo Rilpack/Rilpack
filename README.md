@@ -1,6 +1,5 @@
----
-### :woman_technologist: About Me :
-I am a Frontend and Mobile Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+### :man_technologist: About Me :
+Frontend and Mobile Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
@@ -21,8 +20,3 @@ I am a Frontend and Mobile Developer <img src="https://media.giphy.com/media/WUl
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" title="Android" **alt="Android" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" **alt="VSCode" width="40" height="40"/>&nbsp;
 </div>
-
----
-### :fire: My Stats :
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rilpack&theme=dark&background=000000)](https://git.io/streak-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rilpack&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
