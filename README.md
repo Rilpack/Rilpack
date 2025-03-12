@@ -1,14 +1,3 @@
-<div align="center">
-  <div id="header" align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXF0a2IyY3ZqYmszNG9lM3ljNmxpeG1vOXFpMzFrdnU0ZmNpZTVoaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sE1fbQPozKg3q5I2W2/giphy.gif" width="300"/>
-  </div>
-  <div id="badges">
-    <a href="https://t.me/rilpack">
-      <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-    </a>
-  </div>
-</div>
-
 ---
 ### :woman_technologist: About Me :
 I am a Frontend and Mobile Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
